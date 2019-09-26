@@ -2,5 +2,11 @@
 Demo script to learn Python
 #Running the script
 
-using Python3
-`python3 find-close-meteorites.py`
+
+
+**
+Before running :
+install pipenv first
+
+pipenv install
+pipenv run "find-close-meteorites.py"
