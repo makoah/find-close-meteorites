@@ -9,4 +9,4 @@ Before running :
 install pipenv first
 
 pipenv install
-pipenv run "find-close-meteorites.py"
+pipenv run "meteors/find-close-meteorites.py"
